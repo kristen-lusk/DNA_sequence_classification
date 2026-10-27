@@ -1,6 +1,6 @@
 # Drosophila Species Classification Using COI K-mers
 
-**Python | Biopython | scikit-learn | mitochondrial DNA barcoding**
+**Python | Biopython | mitochondrial DNA barcoding**
 
 A personal computational biology project evaluating whether short DNA
 patterns (3-mers) can distinguish three *Drosophila* species using partial
